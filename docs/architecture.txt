@@ -1,0 +1,8 @@
+~ Scenes ~
+    * Preload
+    * Main Screen Start Menu
+    * Game
+        * Overworld
+            - UI
+            - Map Level
+        * Battle
